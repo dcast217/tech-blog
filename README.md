@@ -37,3 +37,4 @@ WHEN I click on the logout option in the navigation
 THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
 THEN I am able to view posts and comments but I am prompted to log in again before I can add, update, or delete posts
+![image](https://github.com/dcast217/tech-blog/assets/151418582/62ca30a6-c1da-4a70-b118-1620a5099e02)
